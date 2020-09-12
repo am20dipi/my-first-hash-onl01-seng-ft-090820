@@ -1,5 +1,5 @@
 def my_hash(hash)
-  my_hash = {"color" => "red", "cat" => "Cosmo", "food" => "pasta"}
+  hash = {"color" => "red", "cat" => "Cosmo", "food" => "pasta"}
 end
 
 
