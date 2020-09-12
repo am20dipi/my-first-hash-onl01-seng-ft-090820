@@ -1,4 +1,4 @@
-def my_hash(hash)
+def my_hash()
   hash = {"color" => "red", "cat" => "Cosmo", "food" => "pasta"}
 end
 
